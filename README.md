@@ -3,6 +3,10 @@ Daje PHP
 
 Daje is a PHP Framework for REST API services.
 
+> If you have to create a *complex* system,  
+> don't create *a* complex system.   
+> Create instead a system on top on **smaller** units. 
+
 ### Features
 
 1. Respects the [The Twelve-Factor App](http://12factor.net/).
